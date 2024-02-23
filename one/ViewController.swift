@@ -14,7 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    var one = ""
+    var one = "1"
+    func pr(){
+        print("brnch one")
 
+    }
+   
 }
 
